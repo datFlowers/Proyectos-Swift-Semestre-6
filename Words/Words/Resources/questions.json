@@ -1,0 +1,755 @@
+[
+  {
+    "id": 1,
+    "word": "syntax",
+    "definition": "Conjunto de reglas que definen cómo se combinan las palabras para formar oraciones.",
+    "categories": [
+      "Languages",
+      "Programming"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "loop",
+    "definition": "Estructura de control que repite un bloque de código varias veces.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 3,
+    "word": "canvas",
+    "definition": "Tela preparada para que un artista pinte sobre ella.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 4,
+    "word": "goal",
+    "definition": "Acción de introducir el balón en la portería contraria.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 5,
+    "word": "atom",
+    "definition": "La unidad más pequeña de un elemento químico que conserva sus propiedades.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 6,
+    "word": "revolution",
+    "definition": "Cambio social o político profundo y súbito.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 7,
+    "word": "melody",
+    "definition": "Sucesión de sonidos musicales que conforman una idea musical completa.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 8,
+    "word": "scene",
+    "definition": "Parte de una obra teatral o cinematográfica que transcurre en un mismo espacio.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 9,
+    "word": "cuisine",
+    "definition": "Conjunto de platos y recetas propios de una región o cultura.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "river",
+    "definition": "Corriente natural de agua que fluye por un cauce hacia otro cauce, lago o mar.",
+    "categories": [
+      "Geography"
+    ]
+  },
+  {
+    "id": 11,
+    "word": "grammar",
+    "definition": "Conjunto de reglas que rigen la estructura de las oraciones en un idioma.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 12,
+    "word": "vocabulary",
+    "definition": "Conjunto de palabras que componen un idioma.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 13,
+    "word": "bilingual",
+    "definition": "Persona que habla dos idiomas con fluidez.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 14,
+    "word": "translation",
+    "definition": "Proceso de convertir texto de un idioma a otro.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 15,
+    "word": "dialect",
+    "definition": "Variante regional de un idioma.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 16,
+    "word": "phonetics",
+    "definition": "Estudio de los sonidos del habla.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "semantics",
+    "definition": "Estudio del significado de las palabras y frases.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 18,
+    "word": "morphology",
+    "definition": "Estudio de la estructura de las palabras.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 19,
+    "word": "linguistics",
+    "definition": "Ciencia que estudia el lenguaje humano.",
+    "categories": [
+      "Languages"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "code",
+    "definition": "Conjunto de instrucciones escritas en un lenguaje de programación.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 21,
+    "word": "function",
+    "definition": "Bloque de código que realiza una tarea específica.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "variable",
+    "definition": "Espacio de almacenamiento que contiene un valor que puede cambiar.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "debug",
+    "definition": "Proceso de encontrar y corregir errores en el código.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "algorithm",
+    "definition": "Conjunto de pasos para resolver un problema.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "array",
+    "definition": "Estructura de datos que almacena múltiples valores.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "class",
+    "definition": "Plantilla para crear objetos en programación orientada a objetos.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 27,
+    "word": "object",
+    "definition": "Instancia de una clase que contiene datos y métodos.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "compiler",
+    "definition": "Programa que traduce código fuente a código ejecutable.",
+    "categories": [
+      "Programming"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "painter",
+    "definition": "Persona que crea arte utilizando pintura.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "sculpture",
+    "definition": "Obra de arte tridimensional creada moldeando materiales.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 31,
+    "word": "gallery",
+    "definition": "Lugar donde se exhiben obras de arte.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "portrait",
+    "definition": "Representación artística de una persona.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "palette",
+    "definition": "Tabla donde se mezclan los colores.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "brush",
+    "definition": "Herramienta utilizada para aplicar pintura.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 35,
+    "word": "exhibition",
+    "definition": "Muestra pública de obras de arte.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 36,
+    "word": "sketch",
+    "definition": "Dibujo preliminar o rápido.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "abstract",
+    "definition": "Estilo de arte que no representa la realidad de forma literal.",
+    "categories": [
+      "Artists"
+    ]
+  },
+  {
+    "id": 38,
+    "word": "soccer",
+    "definition": "Deporte en el que dos equipos intentan marcar goles pateando un balón.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "basketball",
+    "definition": "Deporte en el que dos equipos intentan encestar un balón en un aro elevado.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "tournament",
+    "definition": "Competencia entre varios participantes o equipos.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "athlete",
+    "definition": "Persona que practica deportes.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "referee",
+    "definition": "Persona que aplica las reglas en un deporte.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "stadium",
+    "definition": "Lugar donde se celebran eventos deportivos.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "coach",
+    "definition": "Persona que entrena a un equipo o deportista.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "score",
+    "definition": "Cantidad de puntos obtenidos en un juego.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "team",
+    "definition": "Grupo de personas que compiten juntas en un deporte.",
+    "categories": [
+      "Sports"
+    ]
+  },
+  {
+    "id": 47,
+    "word": "experiment",
+    "definition": "Prueba realizada para comprobar una hipótesis.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "biology",
+    "definition": "Ciencia que estudia los seres vivos.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 49,
+    "word": "theory",
+    "definition": "Explicación basada en evidencia científica.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 50,
+    "word": "microscope",
+    "definition": "Instrumento que permite ver objetos muy pequeños.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 51,
+    "word": "physics",
+    "definition": "Ciencia que estudia la materia y la energía.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "chemistry",
+    "definition": "Ciencia que estudia la composición de la materia.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 53,
+    "word": "hypothesis",
+    "definition": "Suposición que se puede probar mediante experimentos.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 54,
+    "word": "data",
+    "definition": "Información recopilada para análisis.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 55,
+    "word": "research",
+    "definition": "Estudio detallado para descubrir información nueva.",
+    "categories": [
+      "Science"
+    ]
+  },
+  {
+    "id": 56,
+    "word": "empire",
+    "definition": "Conjunto de territorios gobernados por un solo poder.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 57,
+    "word": "ancient",
+    "definition": "Relacionado con tiempos muy lejanos.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 58,
+    "word": "colonial",
+    "definition": "Relacionado con la colonización de territorios.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 59,
+    "word": "treaty",
+    "definition": "Acuerdo formal entre países.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 60,
+    "word": "dynasty",
+    "definition": "Serie de gobernantes de la misma familia.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 61,
+    "word": "monarchy",
+    "definition": "Sistema de gobierno encabezado por un rey o reina.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 62,
+    "word": "war",
+    "definition": "Conflicto armado entre grupos o naciones.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 63,
+    "word": "civilization",
+    "definition": "Sociedad avanzada con cultura y tecnología.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 64,
+    "word": "archaeology",
+    "definition": "Estudio de las culturas antiguas a través de restos materiales.",
+    "categories": [
+      "History"
+    ]
+  },
+  {
+    "id": 65,
+    "word": "instrument",
+    "definition": "Objeto utilizado para producir música.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 66,
+    "word": "concert",
+    "definition": "Evento donde se interpreta música en vivo.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 67,
+    "word": "singer",
+    "definition": "Persona que canta.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 68,
+    "word": "album",
+    "definition": "Colección de canciones grabadas.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 69,
+    "word": "rhythm",
+    "definition": "Patrón de sonidos y silencios en el tiempo.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "genre",
+    "definition": "Categoría de música con características similares.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 71,
+    "word": "harmony",
+    "definition": "Combinación de notas que suenan simultáneamente.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 72,
+    "word": "lyrics",
+    "definition": "Palabras de una canción.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 73,
+    "word": "chorus",
+    "definition": "Parte repetitiva de una canción.",
+    "categories": [
+      "Music"
+    ]
+  },
+  {
+    "id": 74,
+    "word": "cinema",
+    "definition": "Lugar donde se proyectan películas.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 75,
+    "word": "actor",
+    "definition": "Persona que interpreta un papel en una película.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 76,
+    "word": "director",
+    "definition": "Persona que supervisa la realización de una película.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 77,
+    "word": "script",
+    "definition": "Texto que contiene los diálogos y acciones de una película.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 78,
+    "word": "trailer",
+    "definition": "Avance promocional de una película.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 79,
+    "word": "sequel",
+    "definition": "Película que continúa la historia de otra anterior.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 80,
+    "word": "soundtrack",
+    "definition": "Música utilizada en una película.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 81,
+    "word": "premiere",
+    "definition": "Primera proyección oficial de una película.",
+    "categories": [
+      "Movies"
+    ]
+  },
+  {
+    "id": 82,
+    "word": "recipe",
+    "definition": "Conjunto de instrucciones para preparar un plato.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 83,
+    "word": "chef",
+    "definition": "Persona que cocina profesionalmente.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 84,
+    "word": "ingredient",
+    "definition": "Elemento utilizado en la preparación de un plato.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 85,
+    "word": "dish",
+    "definition": "Preparación culinaria específica.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 86,
+    "word": "flavor",
+    "definition": "Sabor distintivo de un alimento.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 87,
+    "word": "spice",
+    "definition": "Sustancia utilizada para dar sabor a los alimentos.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 88,
+    "word": "bake",
+    "definition": "Cocinar en horno.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 89,
+    "word": "grill",
+    "definition": "Cocinar sobre una parrilla.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 90,
+    "word": "saute",
+    "definition": "Cocinar rápidamente en una pequeña cantidad de grasa.",
+    "categories": [
+      "Gastronomy"
+    ]
+  },
+  {
+    "id": 91,
+    "word": "continent",
+    "definition": "Una de las grandes extensiones de tierra del planeta.",
+    "categories": [
+      "Geography"
+    ]
+  },
+  {
+    "id": 92,
+    "word": "mountain",
+    "definition": "Elevación natural del terreno.",
+    "categories": [
+      "Geography"
+    ]
+  },
+  {
+    "id": 93,
+    "word": "country",
+    "definition": "Nación con su propio gobierno y territorio.",
+    "categories": [
+      "Geography"
+    ]
+  },
+  {
+    "id": 94,
+    "word": "climate",
+    "definition": "Condiciones atmosféricas de una región durante un periodo de tiempo.",
+    "categories": [
+      "Geography"
+    ]
+  }
+]
